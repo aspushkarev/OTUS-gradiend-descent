@@ -1,1 +1,1 @@
-# OTUS-gradiend-descent
+# OTUS-gradient-descent
